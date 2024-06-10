@@ -1,9 +1,9 @@
 # Your solution to Exercise 1
-Alex = int(input())
-Tatyana = int(input())
-if Alex > Tatyana:
-  print("Alex is the eldest.")
-elif Tatyana > Alex:
-  print("Tatyana is the eldest.")
+Alex = int(input("Enter Alex's age: "))
+Tatyana = int(input("Enter Tatyana's age: "))
+if  Alex > Tatyana:
+    print("Alex is the eldest.")
+elif Alex < Tatyana:
+    print("Tatyana is the eldest.")
 else:
-  print("Alex and Tatyana are the same age.")
+    print("Alex and Tatyana are of the same age.")
