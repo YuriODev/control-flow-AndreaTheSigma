@@ -6,4 +6,4 @@ if Alex > Tatyana:
 elif Tatyana > Alex:
   print("Tatyana is the eldest.")
 else:
-  print("Alex and Tatyana are the same age")
+  print("Alex and Tatyana are the same age.")
